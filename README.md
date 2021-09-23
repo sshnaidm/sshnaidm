@@ -9,7 +9,7 @@
 - I'm one of main maintainers of following Ansible collections:
    - [Ansible Podman collection](https://github.com/containers/ansible-podman-collections)
    - [Ansible Openstack collection](https://github.com/openstack/ansible-collections-openstack)
-- 📫 How to reach me: 📨 email or `sshnaidm` on IRC Freenode **\~\o/\~**
+- 📫 How to reach me: 📨 email or `sshnaidm` on IRC Freenode/OFTC/Libera **\~\o/\~**
 - 💰 How to support my opensource projects: 
   - ![Paypal](https://img.icons8.com/color/20/000000/paypal.png) https://paypal.me/shnaid
   
