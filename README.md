@@ -1,8 +1,12 @@
 ### Hi all 👋
 
 - 🔭 I'm a Software Developer with a focus on DevOps and automation tools.
-- 💓 Things that attract me are: 🐧 Linux, 🐍 Python, 🖧 Networking, 🐳 Containers, ☁️ Clouds etc.
+- 💓 Things that attract me are: 🐧 Linux, 🐍 Python, 🖧 Networking, 🐳 Containers, ☁️ Clouds, 🤖 AI etc.
 - 👨‍💻 You may find my projects useful:
+  - 🤖 [AI assistant](https://github.com/sshnaidm/ai-assistant) - AI interface for Gmail and Google Calendar, scheduling meetings, reading and sending mails, all automatic. MCP is included.
+  - 📚 [Notebook LM additions, scripts and automation](https://github.com/sshnaidm/notebooklm) - Various automation and helpful scripts for working with NotebookLM, Google RAG system.
+  - ✨ [Gemini Code review Github Action](https://github.com/sshnaidm/gemini-code-review-action) - Review your PR with automatic Code Review with Gemini AI in this Github Action.
+  - 💻 [GPT Code review Github Action](https://github.com/sshnaidm/gpt-code-review-action) - Review your PR with automatic Code Review with OpenAI in this Github Action.
   - Ansible AI additions 🅰️🧠
     - [Ansible-GPT](https://github.com/sshnaidm/ansible-gpt) - Check your Ansible playbooks and roles with OpenAI and explain them on the fly! And linter rule to check with ChatGPT.
     - [Github Action for code review by OpenAI](https://github.com/sshnaidm/gpt-code-review-action) - integrate automatic OpenAI code reviewer for your PRs with this Github Action.
